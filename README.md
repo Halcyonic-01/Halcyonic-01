@@ -1,22 +1,10 @@
-# 👋 Hi, I'm Kushagra Singh
-## 💻 Passionate Full-Stack Web Developer specializing in MERN Stack
-## 📚 Dedicated to mastering MongoDB, Express.js, React, and Node.js through hands-on projects
-## 🚀 Enthusiastic about Machine Learning — actively working towards AI and data-driven innovation
+# Hi, I'm Kushagra Singh 👋
 
-## 🌱 What I'm learning right now
-- Building dynamic, responsive web applications using the MERN stack
-- Writing clean, maintainable, and scalable code
-- Integrating APIs and managing backend logic
-
-## 🎯 My goals
-- Master the MERN stack for full-stack development
-- Transition into Machine Learning with a strong foundation in Python, data science, and AI frameworks
-- Work on projects that blend AI with web applications
-
-## ⚡ Fun fact
-I believe code + creativity = magic ✨
-
----
+🚀 Full-Stack Web Developer specializing in MERN Stack  
+🤖 Passionate about Machine Learning and AI innovation  
+💻 Building scalable, dynamic web applications  
+🌱 Learning to integrate AI with modern web development  
+✨ Code + Creativity = Magic
 
 <div align="center">
   <table>
