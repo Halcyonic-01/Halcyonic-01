@@ -1,9 +1,9 @@
 # Hi, I'm Kushagra Singh 👋
 
-🚀 Full-Stack Web Developer specializing in MERN Stack  
-🤖 Passionate about Machine Learning and AI innovation  
-💻 Building scalable, dynamic web applications  
-🌱 Learning to integrate AI with modern web development  
+🚀 Full-Stack Web Developer (MERN)
+⚙️ Exploring DevOps and Cloud Technologies
+💻 Building scalable web apps
+🌱 Learning to automate and deploy efficiently
 ✨ Code + Creativity = Magic
 
 <div align="center">
